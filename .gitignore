@@ -1,0 +1,23 @@
+﻿# Global
+*.log
+.DS_Store
+Thumbs.db
+**/.env
+.env
+.env.local
+.env.*.local
+
+# Node/Next
+doc-ui/node_modules/
+doc-ui/.next/
+doc-ui/out/
+doc-ui/dist/
+doc-ui/coverage/
+
+# Python
+sharepoint-ai-agent/__pycache__/
+sharepoint-ai-agent/.venv/
+sharepoint-ai-agent/venv/
+sharepoint-ai-agent/build/
+sharepoint-ai-agent/dist/
+sharepoint-ai-agent/*.egg-info/
